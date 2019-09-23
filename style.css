@@ -42,6 +42,21 @@ h2 {
     /* border-bottom: .5rem; */
 }
 
+.card-portfolio {
+  margin: 2rem;
+  background: whitesmoke;
+}
+
+a {
+  text-align: center;
+  color: #44aaaa;
+  font-size: 1.5rem;
+}
+
+.find-me {
+  display: inline-block;
+}
+
 .footer {
   background-color: #666666;
   color: whitesmoke;
